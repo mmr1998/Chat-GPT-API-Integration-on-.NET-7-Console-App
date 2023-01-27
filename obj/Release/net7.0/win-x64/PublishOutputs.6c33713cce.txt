@@ -1,0 +1,2 @@
+D:\asp\project\net7mvcProject\AskToChatGpt\AskToChatGpt.pdb
+D:\asp\project\net7mvcProject\AskToChatGpt\AskToChatGpt.exe
